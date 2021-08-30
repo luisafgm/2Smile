@@ -84,3 +84,6 @@
 ;color:#fff}.comment-form{text-align:center;background:#fafaff;border:1px solid #eee;padding:50px 20px;margin-top:50px}.comment-form h4{text-align:center;margin-bottom:50px}.comment-form .name{padding-left:0px}@media (max-width: 991px){.comment-form .name{padding-right:0px}}.comment-form .email{padding-right:0px}@media (max-width: 991px){.comment-form .email{padding-left:0px}}.comment-form .form-control{padding:10px;background:#fff;border:none;border-radius:0px;width:100%;font-size:13px;color:#777777}.comment-form .form-control:focus{box-shadow:none}.comment-form ::-webkit-input-placeholder{font-size:13px;color:#777}.comment-form ::-moz-placeholder{font-size:13px;color:#777}.comment-form :-ms-input-placeholder{font-size:13px;color:#777}.comment-form :-moz-placeholder{font-size:13px;color:#777}.comment-form .primary-btn{border-radius:0px !important;border:1px solid transparent}.comment-form .primary-btn:hover{background:transparent;border-color: #fc8cb4
  !important;color: #fc8cb4
  !important}
+
+/**** Custom CSS */
+#act-desc{margin-top: 10%;margin-bottom: 5%;}
